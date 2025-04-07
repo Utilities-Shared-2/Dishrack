@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CPTemplate>
+  <AppVersion>32</AppVersion>
+  <CPSheet>
+    <GroupBox Label="Master Control" PropName="Groupbox2" DefaultState="Expanded">
+      <Control Label="Distance Between Stud" PropName="StudDistance" ApplyTo="Config" Type="NumericCtrl" ReadOnly="False" DefaultValue="20" />
+      <Control Label="Stud Height" PropName="StudHeight" ApplyTo="Config" Type="NumericCtrl" ReadOnly="False" DefaultValue="25" />
+      <Control Label="Elevation Angle" PropName="Elevation Angle" ApplyTo="Config" Type="NumericCtrl" ReadOnly="False" DefaultValue="75" />
+    </GroupBox>
+  </CPSheet>
+</CPTemplate>
